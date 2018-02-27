@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/guille/Downloads/JuegoDint6/android/assets"><file name="balon.png" path="/Users/guille/Downloads/JuegoDint6/android/assets/balon.png"/><file name="badlogic.jpg" path="/Users/guille/Downloads/JuegoDint6/android/assets/badlogic.jpg"/></source><source path="/Users/guille/Downloads/JuegoDint6/android/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/guille/Downloads/JuegoDint6/android/src/debug/assets"/></dataSet></merger>
